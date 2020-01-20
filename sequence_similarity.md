@@ -1,8 +1,8 @@
 # Sequence similarity searching
 
-1. Homology search: sequence vs. sequence database.
+1. Sequence vs. sequence database.
 
-[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+   [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ## Psi-BLAST and HMMER
 
