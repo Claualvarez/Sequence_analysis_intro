@@ -1,6 +1,6 @@
 # Sequence similarity searching
 
-1. Sequence vs. sequence database.
+**1. Sequence vs. sequence database**
 
    >[NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
    
@@ -10,6 +10,6 @@
    
    >[PDB](https://www.rcsb.org/pdb/search/advSearch.do?st=SequenceQuery)
 
-## Psi-BLAST and HMMER
+**2. Profifle vs. sequence database**
 
-## HHsearch
+**3. Profile vs. profile database**
