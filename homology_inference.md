@@ -1,3 +1,0 @@
-# Homology inference
-
-## Blast
