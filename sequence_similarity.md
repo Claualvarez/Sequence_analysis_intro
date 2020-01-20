@@ -5,7 +5,8 @@
 **Homology vs Analogy**
 
 
-## BLAST and FASTA
+## Local sequence alignments (BLAST) 
+Why?
 
 ## Psi-BLAST and HMMER
 
