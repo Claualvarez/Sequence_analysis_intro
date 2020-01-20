@@ -1,11 +1,8 @@
 # Sequence similarity searching
 
-## Introduction
+1. Homology search: sequence vs. sequence database.
 
-- Why?
-- Homology vs Analogy
-
-## [Local sequence alignments (BLAST)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+[BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ## Psi-BLAST and HMMER
 
