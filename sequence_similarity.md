@@ -2,11 +2,10 @@
 
 ## Introduction
 
-**Homology vs Analogy**
-
+- Why?
+- Homology vs Analogy
 
 ## Local sequence alignments (BLAST) 
-Why?
 
 ## Psi-BLAST and HMMER
 
