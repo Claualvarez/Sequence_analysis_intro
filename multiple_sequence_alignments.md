@@ -39,6 +39,7 @@ the same column are homologous.
    > Carpentier and Chomilier (2019). Bioinformatics, 35 (20), 3970-3980
    
    Some algorithms:
+   - [MAMMOTH](https://ub.cbm.uam.es/software/online/mamothmult.php)
    - [MUSTANG](http://lcb.infotech.monash.edu.au/mustang/)
    - [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/)
    
