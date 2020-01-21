@@ -4,6 +4,10 @@
 
 ![Homology](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BelonBirdSkel.jpg/300px-BelonBirdSkel.jpg)
 
+“If the amino acid sequences of two proteins are set side by side in one-to-one correspondence, there may occur an abnormally large number of pairs containing the same amino acid.”
+> Walter Fitch. J Mol Biol. 1966
+
+
 ## BLAST
 
 ![Extreme-value distribution](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/nihms519883f1.jpg)
