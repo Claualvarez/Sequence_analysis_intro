@@ -11,6 +11,7 @@
 ![BLOSUM62 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/BLOSUM62.png)
 
 **PAM250 Substitution matrix**
+
 ![PAM250 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/nihms519883f1.jpg)
 
 **Activity: sequence similarity searching**
