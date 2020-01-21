@@ -52,4 +52,6 @@
     [HMMER3](https://www.ebi.ac.uk/Tools/hmmer/)
    
 3. Profile vs. profile database
+ 
+    [HH-suite](https://toolkit.tuebingen.mpg.de/)
 
