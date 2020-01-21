@@ -1,16 +1,15 @@
 # MSA Tools
 1. download SeaView
 
-```>human
+```
+>human
 KRSV
-
 >chimp
 KR-V
-
 >gorilla
 KS-V
-
 >orang
-KPRV`
+KPRV
+```
 
->[MAFFT](https://mafft.cbrc.jp/alignment/server/)
+[MAFFT](https://mafft.cbrc.jp/alignment/server/)
