@@ -32,3 +32,7 @@ the same column are homologous.
 4. Open the fasta file in SeaView.
    - Try aligning your sequences with clustal and muscle.
    - Upload your sequences to [MAFFT](https://mafft.cbrc.jp/alignment/server/)
+
+5. Multiple structure alignment and multiple sequence aligmnment.
+   
+   
