@@ -38,4 +38,8 @@ the same column are homologous.
    conformations. Structure similarity does not always imply homology.
    > Carpentier and Chomilier (2019). Bioinformatics, 35 (20), 3970-3980
    
+   Some algorithms:
+   - [MUSTANG](http://lcb.infotech.monash.edu.au/mustang/)
+   - [MATRAS](http://strcomp.protein.osaka-u.ac.jp/matras/)
+   
    
