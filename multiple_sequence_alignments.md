@@ -6,9 +6,9 @@
    >human
    KRSV
    >chimp
-   KR-V
+   KRV
    >gorilla
-   KS-V
+   KSV
    >orang
    KPRV
    ```
