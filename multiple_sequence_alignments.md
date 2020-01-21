@@ -1,5 +1,5 @@
 # MSA Tools
-1. download SeaView
+1. Download and install [SeaView](http://doua.prabi.fr/software/seaview)
 
 ```
 >human
