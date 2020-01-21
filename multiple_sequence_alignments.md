@@ -1,4 +1,4 @@
-# Multiple sequence alignments
+# Multiple Sequence Alignments
 
 - The goal of multiple sequence alignments is to introduce gaps such that residues in 
 the same column are homologous.
