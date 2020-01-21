@@ -21,5 +21,4 @@ the same column are homologous.
 3. Download the results of the sequence similarity search in fasta format.
 4. Open the results in SeaView.
    - Try aligning your sequences with clustal and muscle.
-
-[MAFFT](https://mafft.cbrc.jp/alignment/server/)
+   - Upload your sequences to [MAFFT](https://mafft.cbrc.jp/alignment/server/)
