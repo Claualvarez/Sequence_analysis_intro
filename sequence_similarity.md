@@ -38,3 +38,6 @@
    
 **Position specific scoring matrices**
 
+![Profile HMM architecture used by HMMER3](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/journal.pcbi.1002195.g001.png)
+>Eddy SR (2011) Accelerated Profile HMM Searches. PLoS Comput Biol 7(10): e1002195. https://doi.org/10.1371/journal.pcbi.1002195
+
