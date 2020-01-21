@@ -15,5 +15,11 @@ the same column are homologous.
    >orang
    KPRV
    ```
+   
+   How we align sequences affects tree estimation.
+
+3. Download the results of the sequence similarity search in fasta format.
+4. Open the results in SeaView.
+   - Try aligning your sequences with clustal and muscle.
 
 [MAFFT](https://mafft.cbrc.jp/alignment/server/)
