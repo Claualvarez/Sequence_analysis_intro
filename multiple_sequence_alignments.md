@@ -29,6 +29,6 @@ the same column are homologous.
    How we align sequences affects tree estimation.
 
 3. Download the results of the sequence similarity search in fasta format.
-4. Open the results in SeaView.
+4. Open the fasta file in SeaView.
    - Try aligning your sequences with clustal and muscle.
    - Upload your sequences to [MAFFT](https://mafft.cbrc.jp/alignment/server/)
