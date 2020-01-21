@@ -1,6 +1,7 @@
 # Sequence similarity searching
 
-[BLOSUM62 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/BLOSUM62.png)
+**BLOSUM62 Substitution matrix**
+![BLOSUM62 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/BLOSUM62.png)
 
 **1. Sequence vs. sequence database**
    
