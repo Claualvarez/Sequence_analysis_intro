@@ -10,11 +10,10 @@
 
 ## BLAST
 
-![Extreme-value distribution](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/nihms519883f1.jpg)
-**Extreme-value distribution.** The human dual specificity protein phosphatase 12 (DUS12_HUMAN) was compared to 38,114 human RefSeq proteins using the SSEARCH program. The distribution of bit-scores for all 38,114 alignments is shown (squares, □) as well as the mathematically expected distribution of normalized similarity scores (z-scores, or standard deviations above and below the mean 0) based on the size of the database, using the extreme-value distribution. The close agreement between the observed and expected distribution of scores reflects the observation that the distribution of unrelated sequence scores is indistinguishable from random (mathematically generated) scores, so sequences with significant sequence similarity can be inferred to be not-unrelated, or homologous.
-> Pearson. Curr Protoc Bioinformatics. 2013
 
+**BLAST algorithm**
 
+![Query word](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/Query_word.jpg)
 
 **BLOSUM62 Substitution matrix**
 
@@ -26,7 +25,13 @@
 
 ![PAM250 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/PAM250.png)
 
-   
+
+![Extreme-value distribution](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/nihms519883f1.jpg)
+**Extreme-value distribution.** The human dual specificity protein phosphatase 12 (DUS12_HUMAN) was compared to 38,114 human RefSeq proteins using the SSEARCH program. The distribution of bit-scores for all 38,114 alignments is shown (squares, □) as well as the mathematically expected distribution of normalized similarity scores (z-scores, or standard deviations above and below the mean 0) based on the size of the database, using the extreme-value distribution. The close agreement between the observed and expected distribution of scores reflects the observation that the distribution of unrelated sequence scores is indistinguishable from random (mathematically generated) scores, so sequences with significant sequence similarity can be inferred to be not-unrelated, or homologous.
+> Pearson. Curr Protoc Bioinformatics. 2013
+
+
+
 **Position specific scoring matrices**
 - Protein divergence is not uniform over a protein –some parts are more conserved than others.
 - Position specific scoring matrices can capture specific paterns of conservation at different sites in a protein.
