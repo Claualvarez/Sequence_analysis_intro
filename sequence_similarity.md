@@ -26,7 +26,16 @@
 
 ![PAM250 Substitution matrix](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/PAM250.png)
 
+   
+**Position specific scoring matrices**
+
+![Profile HMM architecture used by HMMER3](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/journal.pcbi.1002195.g001.png)
+>Eddy SR (2011) Accelerated Profile HMM Searches. PLoS Comput Biol 7(10): e1002195. https://doi.org/10.1371/journal.pcbi.1002195
+
+
 **Activity: sequence similarity searching**
+
+1. Sequence vs. sequence database
    
    [NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
    
@@ -35,9 +44,13 @@
    [KEGG](https://www.genome.jp/tools/blast/)
    
    [PDB](https://www.rcsb.org/pdb/search/advSearch.do?st=SequenceQuery)
-   
-**Position specific scoring matrices**
 
-![Profile HMM architecture used by HMMER3](https://github.com/Claualvarez/Introdutcion_to_computational_molecular_evolution/blob/master/slides/journal.pcbi.1002195.g001.png)
->Eddy SR (2011) Accelerated Profile HMM Searches. PLoS Comput Biol 7(10): e1002195. https://doi.org/10.1371/journal.pcbi.1002195
+
+2. Profile vs. sequence database AND Sequence vs. profile database 
+
+    [NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+    
+    [HMMER3](https://www.ebi.ac.uk/Tools/hmmer/)
+   
+3. Profile vs. profile database
 
