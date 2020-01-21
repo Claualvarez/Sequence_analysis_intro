@@ -1,7 +1,7 @@
 # MSA Tools
 1. download SeaView
 
-`>human
+```>human
 KRSV
 
 >chimp
