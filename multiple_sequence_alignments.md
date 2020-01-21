@@ -7,10 +7,11 @@ the same column are homologous.
 - Progressive construction:
   - These methods reduce MSAs to a series of pairwise operations.
   - These algorithms are heuristic.
-  - Common algorithms: Clustal, T-Coffee.
+  - Popular algorithms: Clustal, T-Coffee.
 
 - Iterative methods
-  - 
+  - Similar to progressive contruction methods + iterative realignment step.
+  - Popular algorithm: MUSCLE and MAFFT.
 
 1. Download and install [SeaView](http://doua.prabi.fr/software/seaview)
 2. Copy and paste the following lines
