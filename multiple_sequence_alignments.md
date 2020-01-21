@@ -34,5 +34,8 @@ the same column are homologous.
    - Upload your sequences to [MAFFT](https://mafft.cbrc.jp/alignment/server/)
 
 5. Multiple structure alignment and multiple sequence aligmnment.
+   In a multiple structure alignment, positions correspond to similar three-dimensional
+   conformations. Structure similarity does not always imply homology.
+   > Carpentier and Chomilier. 2019. Bioinformatics, 35 (20), 3970-3980
    
    
