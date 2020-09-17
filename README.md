@@ -29,3 +29,8 @@ ______
 _____
 
 ## Exercise 2: Sequence similarity search
+
+For this exercise you will need a query sequence in a FASTA file format.
+
+1. Go to the *Search* program called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.
+
