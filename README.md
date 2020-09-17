@@ -43,7 +43,11 @@ For this exercise you will need a query sequence in a FASTA file format.
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_processing.png)
   
 **4. Examine the results** \
-  The reults section is divided in three sections ``Visualization``, ``Hitlist`` and ``Alignments``.
+  The reults section is divided in three sections ``Visualization``, ``Hitlist`` and ``Alignments``. \
+  By clicking on any of the hits displayed on the visualization section you will be redirected to the pairwise alignment between your query sequence and the hit you clicked on.
+  
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_hits.png)
+  
 
 
 
