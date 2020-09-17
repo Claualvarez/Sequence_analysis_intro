@@ -59,7 +59,8 @@ For this exercise you will need a query sequence in a FASTA file format.
   
   You will be redirected to a new program manager window.
   
-**6. Align using MAFFT**
+**6. Align the sequences obtained by your prevouos sequence similarity search using MAFFT** \
+  We will use the predefined default parameters. Click the ``Submit``button.
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_input.png)
 
