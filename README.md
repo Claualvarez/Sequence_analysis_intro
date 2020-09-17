@@ -72,4 +72,7 @@ For this exercise you will need a query sequence in a FASTA file format.
   Go to the `ÀlignmentViewer``tab.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_AlnView.png)
+  
+  Use the horizontal scroll bar to examine the entire length of the alignment.
+  
 
