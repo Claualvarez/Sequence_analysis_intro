@@ -63,5 +63,11 @@ For this exercise you will need a query sequence in a FASTA file format.
   We will use the predefined default parameters. Click the ``Submit``button.
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_input.png)
+  
+**7. Examine the results of MAFFT** \
+  By default, the Bioinformatics Toolkit will display the results in the ``CLUSTAL Alignment`` format.
+  
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_default_out.png)
+
 
 
