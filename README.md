@@ -38,7 +38,9 @@ For this exercise you will need a query sequence in a FASTA file format.
   
 **2. Paste your sequence in the input box or upload it using the ``Upload Sequence`` button.**
 
-**3. Submit the job.**
+**3. Submit the job and wait while your submission is processed.**
+
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_processing.png)
 
 
 
