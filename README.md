@@ -49,9 +49,12 @@ For this exercise you will need a query sequence in a FASTA file format.
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_hits.png)
   
 **5. Locate the ``Forward``button at the top of the ``Results``page and click on it.** \
-  We will forward the *Aligned regions* with a E-value better than 0.00001 (1E-05) to a Multiple Sequence Alignment algorithm.
+  We will forward the *Aligned regions* with a E-value better than 0.00001 (1E-05) to a Multiple Sequence Alignment (MSA) algorithm.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward.png)
 
+  The MSA that we will use is MAFFT. Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
+  
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward_MAFFT.png)
 
 
