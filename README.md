@@ -35,4 +35,10 @@ For this exercise you will need a query sequence in a FASTA file format.
 **1. Go to the *Search* program called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.**
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_BLAST.png)
+  
+**2. Paste your sequence in the input box or upload it using the *Upload Sequence* button.**
+
+**3. 
+
+
 
