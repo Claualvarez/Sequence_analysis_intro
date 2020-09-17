@@ -6,22 +6,22 @@ ______
 
 **1. Go to https://toolkit.tuebingen.mpg.de/**
   
- ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome.png)
+   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome.png)
  
  **2. Explore the Welcome page** \
- At the top of the page there are seven tabs that correspond to different types of analysis that you can perform on an amino acid sequence.
+   At the top of the page there are seven tabs that correspond to different types of analysis that you can perform on an amino acid sequence.
  
- The *Search* programs in the Bioinformatics Toolkit are the following:
-  - HHblits
-  - HHpred
-  - HMMER
-  - PatternSearch
-  - ProtBLAST/PSI-BLAST
+   The *Search* programs in the Bioinformatics Toolkit are the following:
+   - HHblits
+   - HHpred
+   - HMMER
+   - PatternSearch
+   - ProtBLAST/PSI-BLAST
   
-Hover over the name of the programs to get a short description of what they do. \
-Click on the names of the tabs to explore other programs in the Bioinformatics Toolkit.
+  Hover over the name of the programs to get a short description of what they do. \
+  Click on the names of the tabs to explore other programs in the Bioinformatics Toolkit.
 
- ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_h hblits.png)
 
 > Which one of the *Search* programs would you use for structure prediction? \
 > What are the *Alignment* programs in the Bioinformatics toolkit? \
