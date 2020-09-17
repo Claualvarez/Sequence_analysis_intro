@@ -21,7 +21,7 @@ ______
   Hover over the name of the programs to get a short description of what they do. \
   Click on the names of the tabs to explore other programs in the Bioinformatics Toolkit.
 
-  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_h hblits.png)
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
 > Which one of the *Search* programs would you use for structure prediction? \
 > What are the *Alignment* programs in the Bioinformatics toolkit? \
