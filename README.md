@@ -69,5 +69,7 @@ For this exercise you will need a query sequence in a FASTA file format.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_default_out.png)
 
-
+  Go to the `ÀlignmentViewer``tab.
+  
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_AlnView.png)
 
