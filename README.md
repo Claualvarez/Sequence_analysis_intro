@@ -4,7 +4,11 @@ ______
 
 ## Exercise 1: Getting to know the Bioinformatics Toolkit
 
-1. Go to https://toolkit.tuebingen.mpg.de/
+**1. Go to https://toolkit.tuebingen.mpg.de/**
+  
+ ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome.png)
+ 
+ 
   - HHblits
   - HHpred
   - HMMER
