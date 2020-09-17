@@ -56,5 +56,11 @@ For this exercise you will need a query sequence in a FASTA file format.
   The MSA that we will use is MAFFT. Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward_MAFFT.png)
+  
+  You will be redirected to a new program manager window.
+  
+**6. Align using MAFFT**
+
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_input.png)
 
 
