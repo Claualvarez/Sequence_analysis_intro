@@ -1,4 +1,4 @@
-# Tutorial: introduction to sequence analysis using the MPI Bioinformatics Toolkit
+# Tutorial: Introduction to sequence analysis using the MPI Bioinformatics Toolkit
 
 ______
 
@@ -18,11 +18,14 @@ ______
   - PatternSearch
   - ProtBLAST/PSI-BLAST
   
-Hover over the name of the programs to get a short description of what they do.
+Hover over the name of the programs to get a short description of what they do. \
+Click on the names of the tabs to explore other programs in the Bioinformatics Toolkit.
 
  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
+> Which one of the *Search* programs would you use for structure prediction?
 > What are the *Alignment* programs in the Bioinformatics toolkit?
+> Which program reconstructs ancestral protein sequences?
 _____
 
 ## Exercise 2: Sequence similarity search
