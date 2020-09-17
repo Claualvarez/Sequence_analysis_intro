@@ -19,7 +19,7 @@ ______
    - ProtBLAST/PSI-BLAST
   
   Hover over the name of the programs to get a short description of what they do. \
-  Click on the names of the tabs to explore other programs in the Bioinformatics Toolkit.
+  Click on the different tabs to explore other programs in the Bioinformatics Toolkit.
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
