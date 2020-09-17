@@ -2,7 +2,7 @@
 
 ______
 
-## Exercise 1: Sequence similarity search
+## Exercise 1: Getting to know the Bioinformatics Toolkit
 
 1. Go to https://toolkit.tuebingen.mpg.de/
   - HHblits
@@ -10,3 +10,7 @@ ______
   - HMMER
   - PatternSearch
   - ProtBLAST/PSI-BLAST
+
+_____
+
+## Exercise 2: Sequence similarity search
