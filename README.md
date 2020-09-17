@@ -8,6 +8,8 @@ ______
   
  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome.png)
  
+ **2. Explore the Welcome page**
+ At the top of the page there are seven tabs that correspond to different types of analysis that you can perform on an amino acid sequence.
  
   - HHblits
   - HHpred
