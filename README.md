@@ -41,6 +41,10 @@ For this exercise you will need a query sequence in a FASTA file format.
 **3. Submit the job and wait while your submission is processed.**
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_processing.png)
+  
+**4. Examine the results** \
+  The reults section is divided in three sections ``Visualization``, and ``Hitlist``, ``Alignments``.
+
 
 
 
