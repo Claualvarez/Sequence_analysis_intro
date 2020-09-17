@@ -36,7 +36,7 @@ For this exercise you will need a query sequence in a FASTA file format.
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_BLAST.png)
   
-**2. Paste your sequence in the input box or upload it using the *Upload Sequence* button.**
+**2. Paste your sequence in the input box or upload it using the `Upload Sequence button.**
 
 **3. 
 
