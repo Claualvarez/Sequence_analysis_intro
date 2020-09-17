@@ -23,8 +23,8 @@ Click on the names of the tabs to explore other programs in the Bioinformatics T
 
  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
-> Which one of the *Search* programs would you use for structure prediction?
-> What are the *Alignment* programs in the Bioinformatics toolkit?
+> Which one of the *Search* programs would you use for structure prediction? \
+> What are the *Alignment* programs in the Bioinformatics toolkit? \
 > Which program reconstructs ancestral protein sequences?
 _____
 
