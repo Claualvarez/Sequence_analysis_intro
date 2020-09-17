@@ -32,5 +32,7 @@ _____
 
 For this exercise you will need a query sequence in a FASTA file format.
 
-1. Go to the *Search* program called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.
+**1. Go to the *Search* program called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.**
+
+  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_BLAST.png)
 
