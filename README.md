@@ -22,7 +22,7 @@ Hover over the name of the programs to get a short description of what they do.
 
  ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
-> What are the programs for Alignment in the Bioinformatics toolkit?
+> What are the *Alignment* programs in the Bioinformatics toolkit?
 _____
 
 ## Exercise 2: Sequence similarity search
