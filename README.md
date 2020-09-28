@@ -90,15 +90,15 @@ the same column are homologous.
 - Progressive construction:
   - These methods reduce MSAs to a series of pairwise operations.
   - These algorithms are heuristic.
-  - Popular algorithms: Clustal, T-Coffee.
+  - Popular algorithms: [Clustal](https://www.ebi.ac.uk/Tools/msa/clustalo/), [T-Coffee](https://www.ebi.ac.uk/Tools/msa/tcoffee/).
 
 - Iterative methods
   - Similar to progressive contruction methods + iterative realignment step.
-  - Popular algorithms: MUSCLE and MAFFT.
+  - Popular algorithms: [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) and [MAFFT](https://www.ebi.ac.uk/Tools/msa/mafft/).
   
 ### Desktop alignment viewers 
-[SeaView](http://doua.prabi.fr/software/seaview)
-[AliView](https://ormbunkar.se/aliview/#DOWNLOAD)
-[JalView](http://www.jalview.org/getdown/release/)
+- [SeaView](http://doua.prabi.fr/software/seaview)
+- [AliView](https://ormbunkar.se/aliview/#DOWNLOAD)
+- [JalView](http://www.jalview.org/getdown/release/)
 
   
