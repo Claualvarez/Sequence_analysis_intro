@@ -89,7 +89,6 @@ the same column are homologous.
 #### Alignment methods
 - Progressive construction:
   - These methods reduce MSAs to a series of pairwise operations.
-  - These algorithms are heuristic.
   - Popular algorithms: [Clustal](https://www.ebi.ac.uk/Tools/msa/clustalo/), [T-Coffee](https://www.ebi.ac.uk/Tools/msa/tcoffee/).
 
 - Iterative methods
