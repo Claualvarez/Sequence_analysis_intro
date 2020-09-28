@@ -59,12 +59,30 @@ For this exercise you will need a query sequence in a FASTA file format.
   
   You will be redirected to a new program manager window.
   
-**6. Align the sequences obtained by your prevouos sequence similarity search using MAFFT** \
+_____
+
+## Exercise 3: Mulstiple Sequence Alignment
+
+The goal of multiple sequence alignments is to introduce gaps such that residues in 
+the same column are homologous.
+
+### Alignment methods
+- Progressive construction:
+  - These methods reduce MSAs to a series of pairwise operations.
+  - These algorithms are heuristic.
+  - Popular algorithms: Clustal, T-Coffee.
+
+- Iterative methods
+  - Similar to progressive contruction methods + iterative realignment step.
+  - Popular algorithm: MUSCLE and MAFFT.
+
+  
+**1. Align the sequences obtained by your prevouos sequence similarity search using MAFFT** \
   We will use the predefined default parameters. Click the ``Submit``button.
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_input.png)
   
-**7. Examine the results of MAFFT** \
+**2. Examine the results of MAFFT** \
   By default, the Bioinformatics Toolkit will display the results in the ``CLUSTAL Alignment`` format.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MAFFT_default_out.png)
