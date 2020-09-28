@@ -97,7 +97,7 @@ the same column are homologous.
   
 ### Desktop alignment viewers 
 - [SeaView](http://doua.prabi.fr/software/seaview)
-- [AliView](https://ormbunkar.se/aliview/#DOWNLOAD)
+- [AliView](https://ormbunkar.se/aliview/#DOWNLOAD) (recommended)
 - [JalView](http://www.jalview.org/getdown/release/)
 
   
