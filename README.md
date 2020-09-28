@@ -74,7 +74,7 @@ the same column are homologous.
 
 - Iterative methods
   - Similar to progressive contruction methods + iterative realignment step.
-  - Popular algorithm: MUSCLE and MAFFT.
+  - Popular algorithms: MUSCLE and MAFFT.
 
   
 **1. Align the sequences obtained by your prevouos sequence similarity search using MAFFT** \
