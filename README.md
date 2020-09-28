@@ -24,27 +24,27 @@ ______
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/Welcome_hhblits.png)
 
 > Which one of the ``Search`` programs would you use for structure prediction? \
-> What are the ``Alignment`` programs in the Bioinformatics toolkit? \
-> Which program reconstructs ancestral protein sequences?
+> What are the ``Alignment`` programs in the Bioinformatics toolkit? 
+
 _____
 
 ## Exercise 2: Sequence similarity search
 
-For this exercise you will need a query sequence in a FASTA file format.
+For this exercise you will need a query sequence in a FASTA format.
 
 **1. Go to the ``Search program`` called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.**
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_BLAST.png)
   
-**2. Paste your sequence in the input box or upload it using the ``Upload Sequence`` button.**
+**2. Paste your sequence in the input box.**
 
 **3. Submit the job and wait while your submission is processed.**
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_processing.png)
   
-**4. Examine the results** \
-  The reults section is divided in three sections ``Visualization``, ``Hitlist`` and ``Alignments``. \
-  By clicking on any of the hits displayed on the visualization section you will be redirected to the pairwise alignment between your query sequence and the hit you clicked on.
+**4. Examine the results.** \
+  The reults window is divided in three sections ``Visualization``, ``Hitlist`` and ``Alignments``. \
+  By clicking on any of the hits on the visualization section you will be redirected to the pairwise alignment between your query sequence and the hit you clicked on.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_hits.png)
   
