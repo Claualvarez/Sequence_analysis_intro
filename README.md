@@ -100,4 +100,9 @@ the same column are homologous.
 - [AliView](https://ormbunkar.se/aliview/#DOWNLOAD) (recommended)
 - [JalView](http://www.jalview.org/getdown/release/)
 
-  
+_____
+
+## Assignment
+
+1. Compute a Multiple Sequence Alignment 
+
