@@ -63,20 +63,6 @@ _____
 
 ## Exercise 3: Mulstiple Sequence Alignment
 
-The goal of multiple sequence alignments is to introduce gaps such that residues in 
-the same column are homologous.
-
-### Alignment methods
-- Progressive construction:
-  - These methods reduce MSAs to a series of pairwise operations.
-  - These algorithms are heuristic.
-  - Popular algorithms: Clustal, T-Coffee.
-
-- Iterative methods
-  - Similar to progressive contruction methods + iterative realignment step.
-  - Popular algorithms: MUSCLE and MAFFT.
-
-  
 **1. Align the sequences obtained by your prevouos sequence similarity search using MAFFT** \
   We will use the predefined default parameters. Click the ``Submit``button.
 
@@ -93,4 +79,26 @@ the same column are homologous.
   
   Use the horizontal scroll bar to examine the entire length of the alignment.
   
+____
 
+### Additional information
+
+The goal of multiple sequence alignments is to introduce gaps such that residues in 
+the same column are homologous.
+
+#### Alignment methods
+- Progressive construction:
+  - These methods reduce MSAs to a series of pairwise operations.
+  - These algorithms are heuristic.
+  - Popular algorithms: Clustal, T-Coffee.
+
+- Iterative methods
+  - Similar to progressive contruction methods + iterative realignment step.
+  - Popular algorithms: MUSCLE and MAFFT.
+  
+### Desktop alignment viewers 
+[SeaView](http://doua.prabi.fr/software/seaview)
+[AliView](https://ormbunkar.se/aliview/#DOWNLOAD)
+[JalView](http://www.jalview.org/getdown/release/)
+
+  
