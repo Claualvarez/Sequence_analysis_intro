@@ -104,5 +104,4 @@ _____
 
 ## Assignment
 
-1. Compute a Multiple Sequence Alignment 
-
+1. Search for homologous sequences in the PDB using the HHpred program (Search tab) in the MPI bioinformatics toolkit.
