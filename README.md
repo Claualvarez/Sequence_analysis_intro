@@ -105,3 +105,11 @@ _____
 ## Assignment
 
 1. Search for homologous sequences in the PDB using the HHpred program (Search tab) in the MPI bioinformatics toolkit.
+2. Select the best 10 hits, make sure to select unique hits (select only hits with different identifiers). 
+3. Forward selected to AlignmentViewer (click on View Alignment).
+4. The logo plot will show the most conserved positions in the alignment.
+5. Copy the input sequences from the input tab and go to PhyML (in the Classification tab).
+6. Compute the maximum-likelihood tree of your sequences.
+
+The names of the nodes in the final tree correspond to PDB entries (PDBcode_chain)
+You can use these codes to inspect the protein structures related to your query using pymol.
