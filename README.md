@@ -69,7 +69,7 @@ We will use the 'User upload' mode.
 **2. Upload your MSA in FASTA format**
 
 **3. Type the PDB code of the structure of your protein and select the chain that you will use for the visualization** \
-T
+
   
 ____
 
