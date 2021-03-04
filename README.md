@@ -24,7 +24,8 @@ For this exercise you will need a query sequence in a FASTA format.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward.png)
 
-  The program that we will use for this exercise is called MAFFT. Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
+  The program that we will use for this exercise is called MAFFT. \
+  Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward_MAFFT.png)
   
