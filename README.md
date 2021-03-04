@@ -79,7 +79,7 @@ Use the drop-down manu on the topology viewer to map data onto your protein.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_menu.png)
 
-You can download the computed data as pymol script.
+Finally, you can download the computed data as pymol script.
   
 ____
 
