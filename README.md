@@ -50,13 +50,13 @@ _____
   
   Use the horizontal scroll bar to examine the entire length of the alignment.
   
-**3. Download the alignment** 
+**3. Download the alignment** \
 Go to ``FASTA Alignment`` and Download MSA.  
 
-## Exercise 3: ProteoVision: visualization of proteins in 1D, 2D and 3D
+## Exercise 3: ProteoVision: visualization of proteins in 1D, 2D and 3D 
 For this exercise we will use the multiple sequence alignment that was generated using the MPI Bioinformatica toolkit.
 
-**1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)**
+**1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)** \
 Skip the default tutorial.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/skip_tutorial.png)
