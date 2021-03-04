@@ -66,10 +66,20 @@ We will use the 'User upload' mode.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/user_upload_mode.png)
 
-**2. Upload your MSA in FASTA format**
+**2. Upload your MSA in FASTA format** \
+The MSA viewer will appear on the right pannel once your MSA has been uploaded.
 
-**3. Use the PDB code of your protein for the visualization**
+**3. Use the PDB code of your protein for the visualization and select a polymer ** \
+Once a polymer has been selected, two applets appear on the right pannel: the topology viewr and the 3D viewer.
 
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_loaded_str.png)
+
+**4. Data mapping** \
+Use the drop-down manu on the topology viewer to map data onto your protein.
+
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_menu.png)
+
+You can download the computed data as pymol script.
   
 ____
 
