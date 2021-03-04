@@ -24,7 +24,7 @@ For this exercise you will need a query sequence in a FASTA format.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward.png)
 
-  The MSA that we will use is MAFFT. Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
+  The program that we will use for this exercise is called MAFFT. Loacte and select ``MAFFT``on the tools menu and click the ``Forward`` button.
   
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/BLAST_forward_MAFFT.png)
   
@@ -51,16 +51,23 @@ _____
   Use the horizontal scroll bar to examine the entire length of the alignment.
   
 **3. Download the alignment** 
+Go to ``FASTA Alignment`` and Download MSA.  
 
 ## Exercise 3: ProteoVision: visualization of proteins in 1D, 2D and 3D
 For this exercise we will use the multiple sequence alignment that was generated using the MPI Bioinformatica toolkit.
 
-**1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)
+**1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)**
 Skip the default tutorial.
 
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/skip_tutorial.png)
 
+We will use the 'User upload' mode.
 
-And select the 'User upload' mode.
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/user_upload_mode.png)
+
+**2. Upload your MSA in FASTA format**
+
+**3. 
   
 ____
 
