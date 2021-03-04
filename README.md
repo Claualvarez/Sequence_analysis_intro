@@ -3,7 +3,7 @@
 
 For this exercise you will need a query sequence in a FASTA format.
 
-**1. Go to the ``Search program`` called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)*.**
+**1. Go to the ``Search program`` called *[ProtBLAST/PSI-BLAST](https://toolkit.tuebingen.mpg.de/tools/psiblast)* at [the MPI Bioinformatics toolkit](https://toolkit.tuebingen.mpg.de/).**
 
   ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_BLAST.png)
   
@@ -55,8 +55,12 @@ _____
 ## Exercise 3: ProteoVision: visualization of proteins in 1D, 2D and 3D
 For this exercise we will use the multiple sequence alignment that was generated using the MPI Bioinformatica toolkit.
 
-**1. Go to [Proteovision](https://proteovision.chemistry.gatech.edu/)
+**1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)
+Skip the default tutorial.
 
+
+
+And select the 'User upload' mode.
   
 ____
 
