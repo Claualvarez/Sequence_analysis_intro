@@ -55,7 +55,7 @@ _____
 Go to ``FASTA Alignment`` and Download MSA.  
 
 ## Exercise 3: ProteoVision: visualization of proteins in 1D, 2D and 3D 
-For this exercise we will use the multiple sequence alignment that was generated using the MPI Bioinformatica toolkit.
+For this exercise you can use a multiple sequence alignment OR a single sequence.
 
 **1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)** \
 Skip the default tutorial.
