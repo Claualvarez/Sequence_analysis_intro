@@ -30,7 +30,16 @@ Finally, download the alignment.
 ____
 ## Exercise 2: ANCESCON: Ancestral Sequence Reconstruction
 
+The goal of ancestral sequence reconstruction methods is to generate the most likely sequence of internal nodes in a phylogeny. \
+For this tutorial we will use the web-based implementation of ANCESCON in the MPI Bioinformatics Toolkit. \
+The original web-based implementation is avaiable [here](http://prodata.swmed.edu/ancescon/ancescon.php), has more options to costumize the calculation, but requires extra steps for file-format conversion.
 
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_loadANCESCON.png)
+
+**1. Upload the MSA of uL02 and submit the job**
+Note: You may get the following message:
+
+``
 ____
 
 ### On Multiple Sequence Alignments
@@ -46,7 +55,10 @@ the same column are homologous.
 - Iterative methods
   - Similar to progressive contruction methods + iterative realignment step.
   - Popular algorithms: [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/) and [MAFFT](https://www.ebi.ac.uk/Tools/msa/mafft/).
-  
+
+- Other methods
+  - Structure-derived MSAs.
+
 ### Desktop alignment viewers 
 - [SeaView](http://doua.prabi.fr/software/seaview)
 - [AliView](https://ormbunkar.se/aliview/#DOWNLOAD) (recommended)
