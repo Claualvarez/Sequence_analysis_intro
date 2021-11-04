@@ -39,7 +39,9 @@ The original web-based implementation is avaiable [here](http://prodata.swmed.ed
 **1. Upload the MSA of uL02 and submit the job** \
 Note: You may get the following message:
 
-``
+`We found an identical copy of your job in our database!`
+
+Select the option to `Load existing job`.
 ____
 
 ### On Multiple Sequence Alignments
