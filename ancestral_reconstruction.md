@@ -52,6 +52,10 @@ The reconstructed sequences are in a section called `The prediction for all ance
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_results.png)
 
+Keep scrolling down. \
+The first sequences without a header corresponds to the prediction for the node at the root.
+
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_rootseq.png)
 ____
 
 ### On Multiple Sequence Alignments
