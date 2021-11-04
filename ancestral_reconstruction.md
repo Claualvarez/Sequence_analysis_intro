@@ -15,7 +15,7 @@ The MSA viewer will appear on the right pannel.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/TwinCons_params.png)
 
-**3. Use the structure of E. coli for 3D visualization and select a polymer ** \
+**3. Use the structure of E. coli for 3D visualization.** \
 Once a polymer has been selected, two applets will appear on the right pannel: the topology viewr and the 3D viewer.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/uL02_2D_3D.png)
