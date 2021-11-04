@@ -3,11 +3,9 @@
 For this exercise you can use a multiple sequence alignment OR a single sequence.
 
 **1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)** \
-Skip the default tutorial.
+Skip the default tutorial and select the 'DESIRE' mode.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/skip_tutorial.png)
-
-We will use the 'DESIRE' mode.
 
 **2. Select a phylogenetic group (or groups) and polymer.** \
 For this tutorial, we will use the MSA of uL02 that includes Bacteria and Archaea. \
