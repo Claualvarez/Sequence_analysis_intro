@@ -23,13 +23,13 @@ Once a polymer has been selected, two applets will appear on the right pannel: t
 **4. Data mapping** \
 Use the drop-down menu on the topology viewer to map sequence conservation (TwinCons or Shannon entropy) onto your protein.
 
-![]()
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ProteoVision_TwinCons.png)
 
 Finally, download the alignment.
   
 ____
 
-### Additional information
+### On Multiple Sequence Alignments
 
 The goal of multiple sequence alignments is to introduce gaps such that residues in 
 the same column are homologous.
