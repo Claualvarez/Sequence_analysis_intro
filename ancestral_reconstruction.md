@@ -9,25 +9,23 @@ Skip the default tutorial.
 
 We will use the 'DESIRE' mode.
 
-![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/user_upload_mode.png)
-
-**2. Select the phylogenetic group and the alignment.** \
-For this tutorial, we will use the MSA of uL02 that including Bacteria and Archaea. \
+**2. Select a phylogenetic group (or groups) and polymer.** \
+For this tutorial, we will use the MSA of uL02 that includes Bacteria and Archaea. \
 The MSA viewer will appear on the right pannel.
 
-![]()
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/TwinCons_params.png)
 
 **3. Use the structure of E. coli for 3D visualization and select a polymer ** \
 Once a polymer has been selected, two applets will appear on the right pannel: the topology viewr and the 3D viewer.
 
-![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_loaded_str.png)
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/uL02_2D_3D.png)
 
 **4. Data mapping** \
-Use the drop-down menu on the topology viewer to map data onto your protein.
+Use the drop-down menu on the topology viewer to map sequence conservation (TwinCons or Shannon entropy) onto your protein.
 
-![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_menu.png)
+![]()
 
-Finally, you can download the computed data as pymol script.
+Finally, download the alignment.
   
 ____
 
