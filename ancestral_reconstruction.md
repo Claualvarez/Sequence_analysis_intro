@@ -42,6 +42,10 @@ Note: You may get the following message:
 `We found an identical copy of your job in our database!`
 
 Select the option to `Load existing job`.
+
+**2. Visualize the results** \
+
+
 ____
 
 ### On Multiple Sequence Alignments
