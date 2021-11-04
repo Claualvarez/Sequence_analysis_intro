@@ -42,8 +42,15 @@ Note: You may get the following message:
 Select the option to `Load existing job`.
 
 **2. Visualize the results** \
+ANCESCON outputs two results: a phylogeny (gene tree) and the reconstructions of the most likely sequences at each node. \
+Select the vertical representation of the tree to examine the tree topology. 
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_Tree.png)
+
+Go to the `Data` tab and scroll down. \
+The reconstructed sequences are in a section called `The prediction for all ancestral nodes:`
+
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_results.png)
 
 ____
 
