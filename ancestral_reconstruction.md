@@ -11,10 +11,13 @@ We will use the 'DESIRE' mode.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/user_upload_mode.png)
 
-**2. Upload your sequence(s) in FASTA format** \
-The MSA viewer will appear on the right pannel once you upload your sequence(s).
+**2. Select the phylogenetic group and the alignment.** \
+For this tutorial, we will use the MSA of uL02 that including Bacteria and Archaea. \
+The MSA viewer will appear on the right pannel.
 
-**3. Use the PDB code of your protein for the visualization and select a polymer ** \
+![]()
+
+**3. Use the structure of E. coli for 3D visualization and select a polymer ** \
 Once a polymer has been selected, two applets will appear on the right pannel: the topology viewr and the 3D viewer.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/proteovision_loaded_str.png)
