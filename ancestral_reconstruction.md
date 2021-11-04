@@ -56,6 +56,10 @@ Keep scrolling down. \
 The first sequences without a header corresponds to the prediction for the node at the root.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_rootseq.png)
+
+**3. Let's compare this result to results obtained with alternative alignments.** \
+
+
 ____
 
 ### On Multiple Sequence Alignments
