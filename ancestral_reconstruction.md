@@ -36,7 +36,7 @@ The original web-based implementation is avaiable [here](http://prodata.swmed.ed
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/MPI_loadANCESCON.png)
 
-**1. Upload the MSA of uL02 and submit the job**
+**1. Upload the MSA of uL02 and submit the job** \
 Note: You may get the following message:
 
 ``
