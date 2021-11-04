@@ -3,7 +3,7 @@
 For this exercise you can use a multiple sequence alignment OR a single sequence.
 
 **1. Go to [ProteoVision](https://proteovision.chemistry.gatech.edu/)** \
-Skip the default tutorial and select the 'DESIRE' mode.
+Skip the default tutorial and select the `DESIRE mode.
 
 ![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/skip_tutorial.png)
 
