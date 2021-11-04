@@ -43,6 +43,7 @@ Select the option to `Load existing job`.
 
 **2. Visualize the results** \
 
+![](https://github.com/Claualvarez/Sequence_analysis_intro/blob/master/figures/ANCESCON_Tree.png)
 
 ____
 
