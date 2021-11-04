@@ -28,6 +28,10 @@ Use the drop-down menu on the topology viewer to map sequence conservation (Twin
 Finally, download the alignment.
   
 ____
+## Exercise 2: ANCESCON: Ancestral Sequence Reconstruction
+
+
+____
 
 ### On Multiple Sequence Alignments
 
