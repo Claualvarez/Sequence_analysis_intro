@@ -60,11 +60,10 @@ The first sequences without a header corresponds to the prediction for the node 
 **3. Let's compare this result to results obtained with alternative alignments.** \
 Use the following pre-computed reconstructions for the same set of sequences for the comparison:  
 
-`>uL02ab_ProteoVision_root \
+`
+>uL02ab_ProteoVision_root \
 MAIKKYKPTTPGRRHMTV-SDFSEITKST-PEKSLLVPL------------KKTGGRNNQGRIT-----VRHRGGGH-----KRQYR--------IIDFKRN--------KDGIPAKVASIEYDPNRSARIALLHYA---DGEK-RYILAPKGLKVGDTVVSG---EDADIKPGNCLPLRNIPVGTIVHNIELKPGKGGQLARSAGTSAQLMAKE--GDYAQLRLPSGEMRMVLSECRATIGQVGNADHMNISLGKAGRSRWL-------GRRPTVRGVAMNPVDHPHGGGE---GRTSGGR------HPVSP-WGKPAKGYKTRSKKK----ASDKFIVRRRKKKKKRK------ \
-
-
-
+`
 ____
 
 ### On Multiple Sequence Alignments
